@@ -2,7 +2,7 @@
 
 This document serves as a curated collection of resources and notes for learning key technologies. It is designed to help developers deepen their understanding and enhance their skills in these areas. I personally use it as a brush up before interviews.
 
-For any questions or feedback, feel free to reach out to me at LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vjnvisakh/)
+For any questions or feedback, feel free to reach out to me at LinkedIn: [Visakh Vijayan](https://www.linkedin.com/in/vjnvisakh/)
 
 ## Express.js
 
