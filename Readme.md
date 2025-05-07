@@ -11,3 +11,8 @@ A ORM for MongoDb
 
 - [Mongoose Crash Course - Beginner Through Advanced
   ](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
+
+## Generative AI
+
+- [Generative AI for NodeJs: OpenAI, LangChain - TypeScript
+  ](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/learn/lecture/42356030?start=225#announcements)
