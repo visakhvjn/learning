@@ -2,6 +2,7 @@
 
 A web framework based on NodeJs that allows to create simple backends.
 
+- [Notion Notes](https://periodic-dinghy-0e5.notion.site/ExpressJs-1df6e431404180159672e25eb3364ec9?pvs=73)
 - [Just Express (with a bunch of node and http). In detail.
   ](https://www.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/learn/lecture/39260642?start=0#content)
 
