@@ -9,6 +9,7 @@ A web framework based on NodeJs that allows to create simple backends.
 
 A ORM for MongoDb
 
+- [Notion Notes](https://periodic-dinghy-0e5.notion.site/Mongoose-1ec6e431404180e584b2f00c319a3087)
 - [Mongoose Crash Course - Beginner Through Advanced
   ](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
 
