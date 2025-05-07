@@ -21,5 +21,6 @@ A ORM for MongoDb
 
 ## Generative AI
 
+- [Notion Notes](https://periodic-dinghy-0e5.notion.site/Generative-AI-1bc6e43140418069aadedbb802fd3f96?pvs=73)
 - [Generative AI for NodeJs: OpenAI, LangChain - TypeScript
   ](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/learn/lecture/42356030?start=225#announcements)
