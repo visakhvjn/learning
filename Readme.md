@@ -5,6 +5,12 @@ A web framework based on NodeJs that allows to create simple backends.
 - [Just Express (with a bunch of node and http). In detail.
   ](https://www.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/learn/lecture/39260642?start=0#content)
 
+## MongoDb
+
+A NoSql database
+
+- [Notion Notes](https://periodic-dinghy-0e5.notion.site/MongoDb-1eb6e43140418097b546ebcf1476c3c8?pvs=73)
+
 ## Mongoose
 
 A ORM for MongoDb
