@@ -30,3 +30,10 @@ Generative AI focuses on creating content using machine learning models.
 
 - [Notion Notes](https://periodic-dinghy-0e5.notion.site/Generative-AI-1bc6e43140418069aadedbb802fd3f96?pvs=73)
 - [Generative AI for Node.js: OpenAI, LangChain - TypeScript](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/learn/lecture/42356030?start=225#announcements)
+
+## Docker
+
+A platform for developing, shipping, and running applications inside containers. It uses containerization to package up an application and all its dependencies, making it easier to deploy and run consistently across different environments.
+
+- [Notion Notes](https://periodic-dinghy-0e5.notion.site/Docker-1ec6e431404180c08883ce4dd1971a05?pvs=73)
+- [Learn Docker in 1 Hour | Full Docker Course for Beginners](https://www.youtube.com/watch?v=GFgJkfScVNU)
