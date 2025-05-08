@@ -37,3 +37,4 @@ A platform for developing, shipping, and running applications inside containers.
 
 - [Notion Notes](https://periodic-dinghy-0e5.notion.site/Docker-1ec6e431404180c08883ce4dd1971a05?pvs=73)
 - [Learn Docker in 1 Hour | Full Docker Course for Beginners](https://www.youtube.com/watch?v=GFgJkfScVNU)
+- [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
